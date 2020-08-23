@@ -1,2 +1,2 @@
 # ARlabs
-Scan the QR code to see our project
+Open the image file and scan the QR code to view our project
